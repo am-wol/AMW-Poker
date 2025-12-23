@@ -583,7 +583,6 @@ class Hand {
                             inPlayers: {},
                             id: 0,
                             active: true}];
-        
         largestCallAmount = 0;
         
         for (let j = 0; j < players.length; j++) {
